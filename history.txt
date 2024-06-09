@@ -1,0 +1,281 @@
+    1  ssh -T git@github.com
+    2  git config --global user.name"Natalja"
+    3  git config --global user.email"nzubko1968@gmail.com"
+    4  git config --global -l
+    5   git config --global user.name "Natalja"
+    6  git config --global user.email "nzubco1968@gmail.com"
+    7  git config --global -l
+    8  ssh ec2-user@linux.itcareerhub.de
+    9  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   10  cd
+   11  pwd
+   12  ls -al
+   13  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   14  /
+   15  ls -al
+   16  cd usr
+   17  ls -al
+   18  cd
+   19  mkdir -p/Work
+   20  pwd
+   21  ls -al
+   22  mkdir /Work/
+   23  mkdir -p/usr/Work/
+   24  git init
+   25  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   26  pwd
+   27  ls -al
+   28  ls -al
+   29  cd usr
+   30  ls -al
+   31  git init
+   32  git config --global -l
+   33  ls -al
+   34  cd Work
+   35  mkdir Test-Git
+   36  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   37  git init
+   38  ssh
+   39  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   40  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   41  зцв
+   42  pwd
+   43  ls -al
+   44  \Users\nzubk\OneDrive\Документы\Курс ITCH\Курс_Python\Linux&Git
+   45  ls -al
+   46  cd usr
+   47  mkdir git-intro
+   48  cd ~
+   49  ls al
+   50  git config --global -l
+   51  mkdir Work
+   52  ls -al
+   53  cd Work
+   54  ls -al
+   55  mkdir Test-Git
+   56  cd Test-Git
+   57  cd Work
+   58  cd Work
+   59  ls -al
+   60  cd
+   61  ls -al
+   62  cd Work
+   63  ls-al
+   64  mkdir git_intro
+   65  cd git_intro
+   66  git init
+   67  ls -al
+   68  git status
+   69  git add 95d31ed3228d6828a5a8f9f27cf242b0.jpeg
+   70  ls -al
+   71  ls -al
+   72  add 95d31ed3228d6828a5a8f9f27cf242b0.jpeg
+   73  git status
+   74  git add 95d31ed3228d6828a5a8f9f27cf242b0.jpeg
+   75  git status
+   76  git commit -m "Init commit"
+   77  git log
+   78  ls -al
+   79  git remote -v
+   80  git remote add origin https://github.com/NataljaZubko/git_intro.git
+   81  git remote -v
+   82  git status
+   83  git branch -M main
+   84  git status
+   85  git push -u origin main
+   86  cd ~
+   87  cd Work
+   88  cd git_intro
+   89  git push -u origin main
+   90  cd ~
+   91  ls -al
+   92  cd /W
+   93  cd Work
+   94  ls -al
+   95  cd git-intro
+   96  cd git_intro
+   97  ls -al
+   98  git status
+   99  cd ~
+  100  cd Work
+  101  ls -al
+  102  cd ~
+  103  cd Work
+  104  ls -al
+  105  cd Test-Git
+  106  ls -al
+  107  vi file1.txt
+  108  ls -al
+  109  git init
+  110  ls -al
+  111  git status
+  112  git add fije1.txt
+  113  git add file1.txt
+  114  git status
+  115  git commit -m "Init commit"
+  116  git status
+  117  git log
+  118  git remote -v
+  119  cd Work
+  120  cd /Work
+  121  cd ~
+  122  cd Work
+  123  git clone git@github.com:NataljaZubko/Git-220424-ptm.git
+  124  ls -al
+  125  cd Git-220424-ptm/
+  126  ls -al
+  127  git log
+  128  vi song.txt
+  129  git status
+  130  git add .
+  131  git status
+  132  git commit -m "Add file song.txt"
+  133  git log
+  134  git push
+  135  cd ..
+  136  cd Test-Git
+  137  git remote add origin https://github.com/NataljaZubko/Test-Git.git
+  138  git branch -M main
+  139  git push -u origin main
+  140  cd ~
+  141  cd Work
+  142  ls -al
+  143  cd Test-Git
+  144  git remote add origin https://github.com/NataljaZubko/Test-Git.git
+  145  git remote -v
+  146  git remote add origin https://github.com/NataljaZubko/Test-Git.git
+  147  git push -u origin main
+  148  git log
+  149  git pull
+  150  ls -al
+  151  git clone git@github.com:NataljaZubko/git_intro.git
+  152  ls -al
+  153  cd git_intro
+  154  ls -al
+  155  git add 2953019995.jpg
+  156  ls -al
+  157  cd ..
+  158  cd ..
+  159  cd Test-Git
+  160  ls -al
+  161  rm git_intro/
+  162  ls -al
+  163  rm -rf git_intro/
+  164  ls -al
+  165  cd ..
+  166  git clone git@github.com:NataljaZubko/git_intro.git
+  167  ls -al
+  168  cd git_intro/
+  169  git add 2953019995.jpg
+  170  ls -al
+  171  git status
+  172  ls -al
+  173  git add 2953019995.jpg
+  174  git status
+  175  git commit -m "Added photo"
+  176  git push
+  177   linux.itcareerhub.de
+  178  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  179  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  180  ec2-user@linux.itcareerhub.de
+  181  cd ~
+  182  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  183   #!/bin/bash
+  184   FILE_LIST=$(ls -p /opt/220424-ptm | grep -v /)
+  185   for FILE in $FILE_LIST;  do     if [[ "$FILE" == *.sh ]]; then         chmod +x "/opt/220424-ptm/$FILE";         echo "Добавлены права на исполнение для файла: $FILE";     fi;  done
+  186   echo "Права на исполнение успешно добавлены!"
+  187  cd ~
+  188  ls -al
+  189  cd Work
+  190  ls -al
+  191  git clone git@github.com:NataljaZubko/Home_work.git
+  192  ls -al
+  193  cd Home_work
+  194  vi permission_checker.sh
+  195  ls -al
+  196  chmod +x permission_checker.sh
+  197  ls -al
+  198  chmod +x permission_checker.sh
+  199  ls -al
+  200  cat permission_checker.sh
+  201  mv -rf permission_checker.sh
+  202  ls -al
+  203  cd /
+  204  ls -al
+  205  cd usr
+  206  ls -al
+  207  cd
+  208  ls -al
+  209  cd Work
+  210  ls -al
+  211  cd ..
+  212  ls -al
+  213  cd Home_w
+  214  touch permission_checker.sh
+  215  ls -al
+  216  chmod +x permission_checker.sh
+  217  ls -al
+  218  cd ~
+  219  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  220  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  221  cd ~
+  222  ls -al
+  223  cd Work
+  224  ls -al
+  225  cd Home_work/
+  226  git log
+  227  vi permission_checker.sh
+  228  ls -al
+  229  chmod +x permission_checker.sh
+  230  ls -al
+  231  git status
+  232  git add .
+  233  git status
+  234  git commit -m "Home_work_11"
+  235  git log
+  236  git push
+  237  cd ~
+  238  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  239  cd ~
+  240  ls -al
+  241  cd Work
+  242  ls -al
+  243  git clone git@github.com:NataljaZubko/Test-220424-ptm.git
+  244  ls -al
+  245  cd Git-220424-ptm/
+  246  ls -al
+  247  cd /Work/
+  248  cd /opt/220424-ptm/Zubko/Work
+  249  cd
+  250  cd /opt/220424-ptm/Zubko/Work/
+  251  cd /opt/220424-ptm
+  252  /Work
+  253  cd
+  254  ls -al
+  255  cd Work/
+  256  ls -al
+  257  cd Test-220424-ptm/
+  258  ls -al
+  259  git checkout -b feature
+  260  ls -al
+  261  git status
+  262  git remote -v
+  263  ls -al
+  264  vi README.md 
+  265  vi .gitignore
+  266  git status
+  267  git add README.md
+  268  vi  .gitignore
+  269  git add .gitignore
+  270  git status
+  271  git log
+  272  git commit -m "Added text"
+  273  git log
+  274   git push origin feature
+  275  git status
+  276  git commit --amend -m "Edit file README + file gitignore"
+  277  git log
+  278  git checkout main
+  279  git merge feature
+  280  git log --oneline
+  281  history > history.txt
